@@ -1,0 +1,1 @@
+function build(h, m) { return `${m} ${h} * * *`; } module.exports = { build };
